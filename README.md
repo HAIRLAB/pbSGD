@@ -4,10 +4,10 @@ Powered Stochastic Gradient Descent Methods for Accelerated Nonconvex Optimizati
 
 <div class="row" style="display: flex;">
   <div class="column">
-    <img src="img/powerball1.pdf" alt="Snow" style="width:90%">
+    <img src="img/powerball1.png" alt="Snow" style="width:90%">
   </div>
   <div class="column">
-    <img src="img/powerball2.pdf" alt="Mountains" style="width:100%">
+    <img src="img/powerball2.png" alt="Mountains" style="width:100%">
   </div>
 </div>
 
