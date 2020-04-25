@@ -2,14 +2,10 @@
 
 Powered Stochastic Gradient Descent Methods for Accelerated Nonconvex Optimization
 
-<div class="row" style="display: flex;">
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/HAIRLAB/pbSGD/master/img/powerball1.png" alt="Snow" style="width:90%">
-  </div>
-  <div class="column" style="flex: 50%; padding: 5px;">
-    <img src="https://raw.githubusercontent.com/HAIRLAB/pbSGD/master/img/powerball2.png" alt="Mountains" style="width:100%">
-  </div>
-</div>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/HAIRLAB/pbSGD/master/img/powerball1.png" width="40%" alt="Different gamma choices" />
+  <img src="https://raw.githubusercontent.com/HAIRLAB/pbSGD/master/img/powerball2.png" width="55%" alt="Powerball on gradients" /> 
+</p>
 
 ## Introduction
 
