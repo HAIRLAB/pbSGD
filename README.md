@@ -4,10 +4,10 @@ Powered Stochastic Gradient Descent Methods for Accelerated Nonconvex Optimizati
 
 <div class="row" style="display: flex;">
   <div class="column">
-    <img src="img/powerball1.png" alt="Snow" style="width:90%">
+    <img src="https://raw.githubusercontent.com/HAIRLAB/pbSGD/master/img/powerball1.png" alt="Snow" style="width:90%">
   </div>
-  <div class="column">
-    <img src="img/powerball2.png" alt="Mountains" style="width:100%">
+  <div class="column" style="flex: 50%; padding: 5px;">
+    <img src="https://raw.githubusercontent.com/HAIRLAB/pbSGD/master/img/powerball2.png" alt="Mountains" style="width:100%">
   </div>
 </div>
 
