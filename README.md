@@ -32,3 +32,8 @@ We provide demos including experiments on CIFAR-10 and CIFAR-100 to reproduce th
 ## Contributions
 
 The CIFAR-10 and CIFAR-10 demo code are borrowed from [pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) and [pytorch-cifar-models](https://github.com/junyuseu/pytorch-cifar-models) respectively.
+
+## Citation
+Beitong Zhou, Jun Liu, Weigao Sun, Ruijuan Chen, Claire Tomlin, Ye Yuan, [pbSGD: Powered Stochastic Gradient Descent Methods for Accelerated Non-Convex Optimization](https://www.ijcai.org/Proceedings/2020/451), IJCAI-PRICAI, 2020.
+
+
